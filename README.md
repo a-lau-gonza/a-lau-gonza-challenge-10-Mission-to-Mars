@@ -1,1 +1,3 @@
-# a-lau-gonza-challenge-10-Mission-to-Mars
+# Challenge-10-Mission-to-Mars
+This challenge overall where thoroughly difficult. I managed to get the for loop in order to retrieve all of the titles and the corresponding image urls into a list. As for placing it within the scraping python file, it was also figuring out to also use a nesting dictionary. In the end, the python hemisphere links worked correctly and were stored/printed properly on both the scraping and PythonData work files. When it came to the html it got significantly more difficult, however. Many of my attempts to fix it both my way and through Google Fu where in vain.
+Overall, a thoroughly difficult challenge.
